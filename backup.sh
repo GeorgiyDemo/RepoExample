@@ -1,1 +1,2 @@
-echo Demenchuk Georgiy
+echo "Demenchuk Georgiy"
+echo "New string"
